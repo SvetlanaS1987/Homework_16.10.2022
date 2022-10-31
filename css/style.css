@@ -1,0 +1,26 @@
+body {
+    padding: 0 100px;
+    background-color: rgb(214, 219, 217);
+}
+
+img {
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+h2 {
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    transition: color .4s ease-in-out;
+}
+
+.main-title {
+    text-align: center;
+}
